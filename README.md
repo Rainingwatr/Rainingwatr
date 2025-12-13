@@ -1,7 +1,7 @@
 # Welcome 
 You should def check out this very cool [site](https://docs.new)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Rainingwatr&theme=transparent&commits_year=2026&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Rainingwatr&theme=transparent&commits_year=2025&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![My WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rainingwatr)](https://github.com/anuraghazra/github-readme-stats) -->
 

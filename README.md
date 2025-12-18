@@ -1,5 +1,4 @@
-# Welcome 
-You should def check out this very cool [site](https://docs.new)
+## My git stats
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Rainingwatr&theme=transparent&commits_year=2025&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 

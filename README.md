@@ -1,6 +1,6 @@
 ## My git stats
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Rainingwatr&theme=transparent&commits_year=2025&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Rainingwatr&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![My WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rainingwatr)](https://github.com/anuraghazra/github-readme-stats) -->
 

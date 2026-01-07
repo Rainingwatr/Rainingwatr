@@ -1,6 +1,6 @@
 ## My git stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rainingwatr)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rainingwatr)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![My WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rainingwatr)](https://github.com/anuraghazra/github-readme-stats) -->
 

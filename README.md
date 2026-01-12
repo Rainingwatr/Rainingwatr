@@ -1,2 +1,1 @@
-Git stats currently not working :pray:
-some aint right
+I wana be proficient in Orbit (at least try :c)

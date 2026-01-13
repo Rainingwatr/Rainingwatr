@@ -1,1 +1,3 @@
-I wana be a local script
+Hi 👋,
+Im pretty new at developing
+I also really like making things, there's no more to be said :3 🐈‍⬛

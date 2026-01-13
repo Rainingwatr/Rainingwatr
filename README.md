@@ -1,1 +1,1 @@
-I wana be proficient in Orbit (at least try :c)
+I wana be a local script
